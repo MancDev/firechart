@@ -1,0 +1,112 @@
+{
+  "sales" : {
+    "-KFpJSrBH0U5yqL3_9bP" : {
+      "-KFpKoi5lBLOvn1vMuFG" : {
+        "profit" : 14930,
+        "region" : "East USA",
+        "sales" : 21500,
+        "salesperson" : "Judy"
+      },
+      "-KFpKyNq0YPOMRgjEBY1" : {
+        "profit" : 8755,
+        "region" : "UK",
+        "sales" : 12000,
+        "salesperson" : "Bill"
+      },
+      "month" : "Jan"
+    },
+    "-KFpJYUWq2ALWnnaHmto" : {
+      "-KFpLg0G8onN30lvcSXp" : {
+        "profit" : 17945,
+        "region" : "Africa",
+        "sales" : 26710,
+        "salesperson" : "Jane"
+      },
+      "-KFpLr4Ke_ZKTfprlexf" : {
+        "profit" : 21281,
+        "region" : "West USA",
+        "sales" : 33000,
+        "salesperson" : "Max"
+      },
+      "month" : "Feb"
+    },
+    "-KFpJ_WEX7KrVnmxE2ir" : {
+      "-KFpMO1gAP71sjOn5yOr" : {
+        "profit" : 23540,
+        "region" : "Asia Pacific",
+        "sales" : 31000,
+        "salesperson" : "Bob"
+      },
+      "-KFpMhjNBvuKeKz9QHLS" : {
+        "profit" : 23500,
+        "region" : "West Europe",
+        "sales" : 32000,
+        "salesperson" : "Holly"
+      },
+      "month" : "Mar"
+    },
+    "-KFpJb44LcCKIMDLhCMo" : {
+      "-KFpRwD8kvum9-sgjn5p" : {
+        "profit" : 20095,
+        "region" : "West USA",
+        "sales" : 29400,
+        "salesPerson" : "Max"
+      },
+      "-KFpSBA3zON4Oewkmpq2" : {
+        "profit" : 17600,
+        "region" : "East USA",
+        "sales" : 26000,
+        "salesPerson" : "Judy"
+      },
+      "-KFpSTmAfAiYTKM0PWx-" : {
+        "profit" : 10000,
+        "region" : "UK",
+        "sales" : 14500,
+        "salesPerson" : "Bill"
+      },
+      "month" : "Apr"
+    },
+    "-KFpJcxf_2IgqFMSvGJP" : {
+      "-KFpTYuFIPbonTFmHY_W" : {
+        "profit" : 23000,
+        "region" : "West Europe",
+        "sales" : 34000,
+        "salesPerson" : "Holly"
+      },
+      "-KFpTpmwVIyFYp6qghjY" : {
+        "profit" : 20500,
+        "region" : "Africa",
+        "sales" : 28000,
+        "salesPerson" : "Jane"
+      },
+      "-KFpUKCAH9WbNR-L8sgj" : {
+        "profit" : 22000,
+        "region" : "Asia Pacific",
+        "sales" : 30000,
+        "salesPerson" : "Bob"
+      },
+      "month" : "May"
+    },
+    "-KFpJepukhQ5tb7qawcP" : {
+      "-KFpUkt2sl0AOA8Lk_tV" : {
+        "profit" : 24350,
+        "region" : "West USA",
+        "sales" : 35000,
+        "salesPerson" : "Max"
+      },
+      "-KFpV3wz5OdFYrQZuJh7" : {
+        "profit" : 21500,
+        "region" : "Africa",
+        "sales" : 28500,
+        "salesPerson" : "Jane"
+      },
+      "-KFpVRcvGoK4GuBGhto1" : {
+        "profit" : 10500,
+        "region" : "UK",
+        "sales" : 16000,
+        "salesPerson" : "Bill"
+      },
+      "month" : "Jun"
+    }
+  }
+}

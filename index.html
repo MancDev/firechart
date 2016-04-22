@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+    
+        <title>Firechart Dashboard</title>
+        
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.1.8/semantic.min.css">
+        <link rel="stylesheet" href="firechart.css">
+        
+    </head>
+    
+    <body style="margin:25px">
+        
+        <h1> Firechart Dashboard</h1>
+        
+        <div class="ui grid">
+        
+            <div class="five wide column">
+                
+                <h3 class="align-center">Sales By Month</h3>
+                
+                <canvas id="salesByMonth"></canvas>
+                <div id="legendSBM" class="chartLegend"></div>
+                
+            </div>
+            
+            <div class="five wide column">
+                
+                <h3 class="align-center">Sales By Salesperson</h3>
+                
+                <canvas id="salesByPerson"></canvas>
+                <div id="legendSBP" class="chartLegend"></div>
+                
+            </div>
+            
+            <div class="five wide column">
+                
+                <h3 class="align-center">Sales By Region</h3>
+                
+                <canvas id="salesByRegion"></canvas>
+                <div id="legendSBR" class="chartLegend"></div>
+                
+            </div>    
+            
+        </div>       
+        
+        <script src="http://code.jquery.com/jquery-1.12.2.min.js" integrity="sha256-lZFHibXzMHo3GGeehn1hudTAP3Sc0uKXBXAzHX1sjtk=" crossorigin="anonymous"></script>
+        <script src="https://cdn.firebase.com/js/client/2.4.2/firebase.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js"></script>
+        <script src="firechart.js"></script>
+        
+    </body>
+    
+ </html>
+        
+    
